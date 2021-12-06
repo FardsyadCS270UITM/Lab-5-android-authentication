@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569920193182",
+    "firebase_url": "https://lab5authiqbal.firebaseio.com",
+    "project_id": "lab5authiqbal",
+    "storage_bucket": "lab5authiqbal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569920193182:android:bb462b8588606cd5acb18f",
+        "android_client_info": {
+          "package_name": "com.example.lab5authiqbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569920193182-12va67o037pgb1rhpeulk8847vq6tu5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZPfofuMz5V_6G4NCofDffYMWOuyzqqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569920193182-12va67o037pgb1rhpeulk8847vq6tu5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
